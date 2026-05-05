@@ -1,4 +1,4 @@
-numpy
+numpy<2.0
 pandas
 matplotlib
 jupyter
@@ -9,3 +9,5 @@ gaze-tracking
 tensorflow==2.15
 keras==2.15
 tf-keras
+
+scikit-learn
